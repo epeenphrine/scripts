@@ -1,9 +1,9 @@
 
 # from https://miloserdov.org/?p=2448
 
-sudo apt install snapd
-sudo systemctl start snapd
-sudo systemctl enable snapd
+apt install snapd
+systemctl start snapd
+systemctl enable snapd
 
 systemctl start apparmor
 systemctl enable apparmor

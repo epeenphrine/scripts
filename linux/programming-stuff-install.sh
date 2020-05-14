@@ -1,19 +1,19 @@
 # python 
-sudo apt install -y python3-pip
+apt install -y python3-pip
 pip3 install pipenv 
 pip3 install pandas
 pip3 install bs4
 pip3 install selenium
 
 # golang
-sudo apt install -y golang-go 
+apt install -y golang-go 
 
 # javascript / node / npm
-sudo apt install -y nodejs 
-sudo apt install -y npm 
+apt install -y nodejs 
+apt install -y npm 
 
 # docker
-sudo apt install -y docker.io 
+apt install -y docker.io 
 
 # flutter
 # from home/user/dev/repo/scripts/linux/ to home/user/dev/

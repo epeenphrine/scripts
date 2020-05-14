@@ -1,1 +1,1 @@
-sudo apt install -y indicator-multiload
+apt install -y indicator-multiload
